@@ -21,8 +21,9 @@ Feel free to explore and get in touch with me if you have any questions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/avadhut23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@avadhut23" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/avadhutprabhudesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="avadhutprabhudesai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avadhut-prabhudesai-6a2b3a99/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"> LinkedIn
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

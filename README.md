@@ -13,6 +13,8 @@
 Welcome to my GitHub page! If you're curious to see more of my work, check out my work below:  
 
 🔗 **[app-villa](https://app-villa-iota.vercel.app/)**  
+🔗 **[avalon](https://avadhutprabhudesai.github.io/template-avalon/)**  
+🔗 **[comparto](https://avadhutprabhudesai.github.io/template-comparto/)**  
 
 Feel free to explore and get in touch with me if you have any questions!
 

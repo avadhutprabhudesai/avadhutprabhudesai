@@ -10,7 +10,7 @@
 - 📫 How to reach me **avadhutprabhudesai23@gmail.com**
 
 - ## 💼 Portfolio  
-Welcome to my GitHub page! If you're curious to see more of my work, check out my work below:  
+Welcome to my GitHub page! If you're curious to see more of my work, check out these:  
 
 🔗 **[app-villa](https://app-villa-iota.vercel.app/)**  
 🔗 **[avalon](https://avadhutprabhudesai.github.io/template-avalon/)**  
